@@ -49,4 +49,6 @@ Now you are ready to code!
 
 See the <a href="./LICENSE.md">LICENSE</a> file for more details.
 
-<p align="center" style="margin-top: 20px; border-top: 1px solid #eee; padding-top: 20px;">Made with ❤️ by <strong> Joao Victor Farias </p>
+
+
+<h4 align="center" style="margin-top: 20px; border-top: 1px solid #eee; padding-top: 20px;">Made with ❤️ by <strong> Joao Victor Farias </h4>
